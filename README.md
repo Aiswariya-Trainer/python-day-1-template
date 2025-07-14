@@ -19,3 +19,25 @@ Both files **must include** the following line:
 
 ```python
 print("Hello, World")
+````
+
+---
+
+## 📄 File Naming Convention:
+
+Use your **first name** in the filename.
+
+* Example:
+
+  * `anand_hello.py`
+  * `anand_hello.ipynb`
+
+---
+
+## 📤 How to Submit:
+
+1. Upload both files directly to this repo (use the **"Add file → Upload files"** button).
+2. Once both files are attached, scroll down and **click "Commit changes"**.
+3. Go to **Google Classroom** and mark the assignment as **Submitted**.
+
+---
